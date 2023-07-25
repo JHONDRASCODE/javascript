@@ -28,4 +28,4 @@ let peso=prompt("escriba su peso")
 let ciud=prompt("escriba su ciudad")
 let direc=prompt("escriba su direccion")
 alert("mi nombre es "+nom+", mi edad es "+edad+"años"+", yo peso "+peso+"kg"+ ", vivo en "+ciud+", mi direccion es "+direc)
-/* mostrar en una alerta nombres y apellidos completos, edad, peso y ciudad de residencia y direcion*/
+/* mostrar en una alerta nombres y apellidos completos, edad, peso y ciudad de residencia y direcion wjcvwegcvjw*/
